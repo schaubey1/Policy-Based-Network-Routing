@@ -1,4 +1,4 @@
-# Policy-Based-Network-Routing
+# Policy-Based Network Routing aka Firewall. Built in python using mininet and pox controller.
 Python program to configure policy­ based (firewall) routing between devices on different subnets.
 
 Configuration is as follows:
