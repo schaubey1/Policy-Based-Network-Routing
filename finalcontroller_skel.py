@@ -36,8 +36,6 @@ class Final (object):
     connection.addListeners(self)
 
   def do_final (self, packet, packet_in, port_on_switch, switch_id):
-    # This is where you'll put your code. The following modifications have 
-    # been made from Lab 4:
     #   - port_on_switch represents the port that the packet was received on.
     #   - switch_id represents the id of the switch that received the packet 
     #      (for example, s1 would have switch_id ==1, s2 would have switch_id ==2, etc...)
